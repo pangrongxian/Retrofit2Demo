@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/pangrongxian/AndroidStudioProjects/Retrofit2Demo/app/build/intermediates/incremental-classes/debug/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c7bfce1d861c114646e2781c4ac520a9741069e0">
+        <dex dex="/Users/pangrongxian/AndroidStudioProjects/Retrofit2Demo/app/build/intermediates/pre-dexed/debug/classes_b281fc29c503829f1e7c151a046ec2657a47545e.jar" />
+    </item>
+
+</items>
