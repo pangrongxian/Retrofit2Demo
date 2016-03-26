@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
+    protected void onCreate(Bundle savedInstanceState) {//test github
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         ButterKnife.bind(this);
@@ -66,7 +66,7 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public void onFailure(Call<PhoneResult> call, Throwable t) {
-
+                //test
             }
         });
 
